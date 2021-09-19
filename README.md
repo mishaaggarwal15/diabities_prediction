@@ -20,13 +20,13 @@ Technology used:
 
 Landing Page:
 
-![Screenshot 1](/screenshots/app_ss1)
+![Screenshot 1](/screenshots/app_ss1.png)
 
 Prediction functionality:
 
-![Screenshot 2](/screenshots/app_ss2)
+![Screenshot 2](/screenshots/app_ss2.png)
 
 ---
-![Screenshot 3](/screenshots/app_ss3)
+![Screenshot 3](/screenshots/app_ss3.png)
 
 

@@ -1,5 +1,5 @@
 body {
-    background-color: #c1cad7;
+    background-color: #d7c8c1;
 }
 
 #homepage {
@@ -7,7 +7,7 @@ body {
 }
 
 #homepagebackground {
-    background: url(ai_background_trans.jpg);
+    /*background: url(ai_background_trans.jpg);*/
     background-color: #7285a3;
     background-size: auto 100%;
     background-repeat: no-repeat;

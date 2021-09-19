@@ -3,7 +3,7 @@
 This project utilizes machine learning to provide a prediction of a patients diabetes diagnosis status based on the answers of a questionnaire regarding a number of related symptoms. The trained machine learning model is then deployed to a flask based web application hosted on Heroku.
 
 - The web application can be viewed [here](https://protected-savannah-77193.herokuapp.com/).
-- Methodology of the process used to train the model available [here](https://m-learning-diabetes-prediction.herokuapp.com/about).
+- Methodology of the process used to train the model available [here](https://protected-savannah-77193.herokuapp.com/about).
 
 Technology used:
 - python

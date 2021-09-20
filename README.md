@@ -1,4 +1,4 @@
-# Machine Learning Based Diabetes Prediction Web Based Application
+# ML Based Diabetes Prediction Web Application
 
 This project utilizes machine learning to provide a prediction of a patients diabetes diagnosis status based on the answers of a questionnaire regarding a number of related symptoms. The trained machine learning model is then deployed to a flask based web application hosted on Heroku.
 

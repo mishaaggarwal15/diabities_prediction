@@ -21,14 +21,18 @@ Technology used:
 
 Landing Page:
 
-![Screenshot 1](/screenshots/app_ss_1.png)
+![Screenshot 1](/screenshots/app_ss1.png)
+
+Chat Box:
+
+![Screenshot 1](/screenshots/app_ss2.png)
 
 Prediction functionality:
 
-![Screenshot 2](/screenshots/app_ss_2.png)
+![Screenshot 2](/screenshots/app_ss3.png)
 
 ---
-![Screenshot 3](/screenshots/app_ss_3.png)
+![Screenshot 3](/screenshots/app_ss4.png)
 
 ### Project Structre
 ![Screenshot 1](/screenshots/ProjectStructure.png)

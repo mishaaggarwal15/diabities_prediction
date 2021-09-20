@@ -4,6 +4,7 @@ This project utilizes machine learning to provide a prediction of a patients dia
 
 - The web application can be viewed [here](https://protected-savannah-77193.herokuapp.com/).
 - Methodology of the process used to train the model available [here](https://protected-savannah-77193.herokuapp.com/about).
+- Note that this project is still in progress.
 
 Technology used:
 - python
@@ -29,4 +30,5 @@ Prediction functionality:
 ---
 ![Screenshot 3](/screenshots/app_ss3.png)
 
-
+### Project Structre
+![Screenshot 1](/tree.png)

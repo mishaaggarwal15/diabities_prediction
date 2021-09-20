@@ -32,3 +32,6 @@ Prediction functionality:
 
 ### Project Structre
 ![Screenshot 1](/screenshots/ProjectStructure.png)
+
+### Fowchart of Methodology:
+![Screenshot 1](/screenshots/Flowchart_of_methodology.png)

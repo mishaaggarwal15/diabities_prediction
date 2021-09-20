@@ -31,4 +31,4 @@ Prediction functionality:
 ![Screenshot 3](/screenshots/app_ss3.png)
 
 ### Project Structre
-![Screenshot 1](/tree.png)
+![Screenshot 1](/screenshots/tree.png)

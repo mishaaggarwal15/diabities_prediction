@@ -90,18 +90,17 @@
         <br>
 
         <div class="alert alert-primary shadow" id="diagnosis-result" role="alert"></div>
-        <p> hello there</p>
+        <p><em>Note: </em>If the Prediction diagnosis result is positive and </p>
+        <script type = "text/javascript">
+         <!--
+            var age = document.getElementById("diagnosis-result");;
+
+            if( age == Positive ) {
+               document.write("<b>Qualifies for driving</b>");
+            }
+         //-->
+      </script>
     </div>
 </div>
-  <<<script type="text/javascript">>
-if (data.prediction == true) {
 
-    document.write("SAFE");
-  else(){
-
-
-      document.write("unsafe");
-
-  }
-</script>
 {% endblock %}

@@ -13,8 +13,10 @@
                 success: function (data) {
                   $('#diagnosis-result').fadeOut('fast', () => {
                       $('#diagnosis-result').html("Prediction diagnosis: <strong>" + data.prediction + "</strong><br> Prediction accuracy: <strong>" + data.accuracy + "</strong>");
-                      if (data.prediction == Positive) {
-                        <p>safe</p> 
+                      if (data.prediction == true) {
+                        <script>
+                          document.write("SAFE");
+                        </script>
 
 }
                   }).fadeIn('slow');

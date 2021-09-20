@@ -1,12 +1,24 @@
 {% extends "hometemplate.html" %}
 
 {% set active_page = "home" %}
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6148a613d326717cb6826c7b/1fg1shfks';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 {% block content %}
     <div class="jumbotron text-white m-4" id="jumbotron" style="background-color:#a37272">
         <div class="container fadeIn bg-transparent">
             <h3 class="display-3">Diabetes Prediction</h3>
-            Diabetes diagnosis by filling a form. 
+            Diabetes diagnosis by filling a form.
         </div>
     </div>
 </div>
@@ -24,7 +36,7 @@
                         <p><a class="btn btn-secondary" href="{{ url_for('diagnose') }}" role="button">Predict Results &raquo;</a></p>
                     </div>
                 </div></div>
-            
+
             <div class="col-md-6 fadeInUp second">
                 <div class="card mb-4 shadow">
                     <div class="d-flex justify-content-center text-muted mt-4 icons">
